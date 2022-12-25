@@ -8,7 +8,7 @@
     "test": "vitest"
   },
   "keywords": [],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Chubby Hippo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
